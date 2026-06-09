@@ -2,6 +2,7 @@
 An Analysis of the Effect of Public Wi-Fi Connections on User Security - tests the security level on public wifi networks when accessing encrypted (HTTPS) networks, compared to unencrypted (HTTP) networks, both with and without a Virtual Private Network (VPN).
 
 Abstract:
+
 This experiment tests the security of using a public wifi network when accessing encrypted
 (HTTPS) networks, compared to unencrypted (HTTP) networks, both with and without a
 Virtual Private Network (VPN). Public wifi networks, commonly accessed at cafes, public
@@ -10,6 +11,7 @@ networks to retrieve sensitive information. However, the usage of VPNs, which en
 obfuscate user data, are said to improve this risk. While HTTP connections were previously
 more widespread, the majority of popular internet connections now use HTTPS, which use
 encryption to protect user data.
+
 Due to the widespread usage of public wifi networks, this experiment aims to approximate
 the extent to which public wifi exposes vulnerabilities, whether they can be mediated by
 strictly accessing HTTPS connections and/or using a VPN, or if public wifi usage should be
