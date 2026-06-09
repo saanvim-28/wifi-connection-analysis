@@ -16,7 +16,7 @@ Due to the widespread usage of public wifi networks, this experiment aims to app
 the extent to which public wifi exposes vulnerabilities, whether they can be mediated by
 strictly accessing HTTPS connections and/or using a VPN, or if public wifi usage should be
 avoided entirely. To determine the level of security when using versus not using each of
-these safety measures, WireShark was used to capture and analyze network packets under
+these safety measures, Wireshark was used to capture and analyze network packets under
 each of these conditions. By comparing the amount of compromised data obtained from each
 website at different public wifi locations, the experiment determines whether it is safe to
 connect to a public wifi network, and the extent to which you would need to use extra
